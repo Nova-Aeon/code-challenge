@@ -1,7 +1,7 @@
 fn main() {
     let n = 101;
     println!("Sum of 1 to {} is {}", n, sum_to_n_a(n));
-    println!("Sum of 1 to {} is {}", n, sum_to_n_b(n));
+    println!("Sum of 1 to {c} is {}", n, sum_to_n_b(n));
     println!("Sum of 1 to {} is {}", n, sum_to_n_c(n));
     
 }
