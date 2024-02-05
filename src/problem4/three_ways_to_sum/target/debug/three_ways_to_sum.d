@@ -1,1 +1,0 @@
-D:\studies\NUS\career\ accelarator\ course\code-challenge\src\problem4\three_ways_to_sum\target\debug\three_ways_to_sum.exe: D:\studies\NUS\career\ accelarator\ course\code-challenge\src\problem4\three_ways_to_sum\src\main.rs
